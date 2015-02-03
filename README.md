@@ -3,6 +3,10 @@ Unfortunately, we decided to discontinue support for this project; SoundCloud wi
 
 # The SoundCloud API for Cocoa
 
+mchinen notes
+- modified to build arm64
+(end mchinen notes)
+
 So you want to share your tracks in your iOS Application to SoundCloud? With this project you only need a few lines of code for doing that. The SoundCloud API supports iOS from Version 4.0 and MacOS X from Leopard (10.6). It uses SoundClouds [OAuth2](http://oauth.net/2) API and henceforth includes the [NXOAuth2Client](http://github.com/nxtbgthng/OAuth2Client) project.
 
 Afraid of doing the journey alone? Don't be, there's a lot of places where you can find help:
